@@ -9,5 +9,7 @@ Character Control: Use the arrow keys to move left or right. Press the spacebar 
 
 # Installation
 > `pip install -r requirements.txt`
+
 > `cd game`
+
 > `python main.py`
